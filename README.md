@@ -12,7 +12,6 @@ This repository contains the curriculum, syllabus, and practical experiments for
 
  | 2
 
- |
 | **CO2** | Construct and manipulate databases using SQL including DDL, DML, joins, and subqueries.
 
  | 3
