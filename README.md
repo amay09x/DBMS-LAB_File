@@ -22,9 +22,3 @@ This repository contains the curriculum, syllabus, and practical experiments for
 | **Unit IV: Normalization & ACID** | Functional dependencies, 1NF to BCNF, transaction management, locking, and recovery mechanisms. | Normalize a denormalized table to BCNF and simulate banking transactions with isolation levels (Exp 7 & 8). |
 | **Unit V: Optimization** | Indexing, B+ trees, EXPLAIN analysis, cost-based optimization, and InnoDB storage architecture. | Benchmark query performance using indexes and optimize slow queries on 10,000+ row datasets (Exp 9 & 10). |
 
-## Reference Materials
-
-* *Fundamentals of Database Systems* by R. Elmasri & S. B. Navathe (Pearson).
-* *Database Management Systems* by R. Ramakrishnan & J. Gehrke (McGraw-Hill).
-* *An Introduction to Database Systems* by C. J. Date (Pearson).
-* *Database Systems: The Complete Book* by H. Garcia-Molina, J. D. Ullman, & J. Widom (Pearson).
